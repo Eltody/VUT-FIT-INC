@@ -1,6 +1,6 @@
 # VUT_FIT_INC_proj1
-Prvý projekt k predmetu Návrh číslicových systémov
-Téma: Prístupový terminál
+# Prvý projekt k predmetu Návrh číslicových systémov
+# Téma: Prístupový terminál
 ----------------------------------------------------
 Meno a priezvisko: Tomáš Zaťko
 Login: xzatko02
